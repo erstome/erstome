@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Emanuel, aka erstome 👋
+- 🔭 I’m currently working as Data Scientist at Bosch
+- 🌱 I’m currently learning about MLOps
+- ⚡ Fun fact: I was Civil Engineer in another life
+
+#### Connect with me:
+[<img align=left alt="erstome | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align=left alt="Emanuel-Tome | ResearchGate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
+https://www.researchgate.net/profile/Emanuel-Tome
+
+
+[Linkedin](https://www.linkedin.com/in/erstome/)
+[researchgate](https://www.researchgate.net/profile/Emanuel-Tome)
 
 <!--
 **erstome/erstome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
