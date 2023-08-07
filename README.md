@@ -9,7 +9,7 @@
 https://www.researchgate.net/profile/Emanuel-Tome
 
 
-[Linkedin](https://www.linkedin.com/in/erstome/)
+[linkedin](https://www.linkedin.com/in/erstome/)
 [researchgate](https://www.researchgate.net/profile/Emanuel-Tome)
 
 <!--
