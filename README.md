@@ -1,4 +1,4 @@
-### Hi there, I'm Emanuel, aka erstome 👋
+### Hi there, I'm Emanuel - aka erstome 👋
 - 🔭 I’m currently working as Data Scientist at Bosch
 - 🌱 I’m currently learning about MLOps
 - ⚡ Fun fact: I was Civil Engineer in another life
