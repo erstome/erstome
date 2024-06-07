@@ -34,7 +34,7 @@
 <img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
 <img align="left" alt="Numpy" height="30px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" />
-<img align="left" alt="Matplotlib" height="30px" src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" />
+<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />
 <img align="left" alt="Seaborn" height="30px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
 <img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />
 <img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />
