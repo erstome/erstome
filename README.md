@@ -120,7 +120,6 @@
 
 [AzureDevOps]: https://azure.microsoft.com/en-us/products/devops
 
-https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png
 [<img align="left" alt="Azure" height="30px" src="https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png" />][Mlflow]
 
 [MLflow]: https://mlflow.org/
