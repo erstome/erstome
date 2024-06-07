@@ -35,31 +35,44 @@
 
 [MongoDB]: https://www.mongodb.com/
 
-<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+[<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
-<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="left" alt="Numpy" height="30px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" />
-<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />
-<img align="left" alt="Seaborn" height="30px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />
-<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />
-<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />
-<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Dask" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-RH4RMlqx3apU2mMdByJejiX09z4UrJ3VoR3Ilix&s" />
-<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+[git]: https://www.git-scm.com/
 
-<img align="left" alt="R" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="MatLab" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="LabVIEW" height="30px" src="https://user-images.githubusercontent.com/57252765/72805263-bcc17000-3c52-11ea-988c-b4125a068cac.png" />
-<img align="left" alt="C" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+[<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[github]: https://github.com/
 
-<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+[<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 
-<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />  
-<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />
+[<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
+[<img align="left" alt="Numpy" height="30px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" />][Numpy]
+[<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][Matplotlib]
+[<img align="left" alt="Seaborn" height="30px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />][Seaborn]
+[<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
+[<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
+[<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
+[<img align="left" alt="Dask" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-RH4RMlqx3apU2mMdByJejiX09z4UrJ3VoR3Ilix&s" />][Dask]
+[<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][TensorFlow]
+
+
+[<img align="left" alt="R" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
+[<img align="left" alt="MatLab" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][Matlab]
+[<img align="left" alt="LabVIEW" height="30px" src="https://user-images.githubusercontent.com/57252765/72805263-bcc17000-3c52-11ea-988c-b4125a068cac.png" />][LabView]
+[LabView]: https://en.wikipedia.org/wiki/LabVIEW
+[<img align="left" alt="C" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
+[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+
+[<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Bash]
+[Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
+[<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][Docker]
+[Docker]: https://www.docker.com/
+
+[<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][Azure]
+[Azure]: https://azure.microsoft.com/en-us
+[<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][AWS]
+[AWS]: https://aws.amazon.com
 
 <br />
 <br />
