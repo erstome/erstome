@@ -93,20 +93,27 @@
 [Matlab]: https://www.mathworks.com
 
 [<img align="left" alt="LabVIEW" height="30px" src="https://user-images.githubusercontent.com/57252765/72805263-bcc17000-3c52-11ea-988c-b4125a068cac.png" />][LabView]
+
 [LabView]: https://en.wikipedia.org/wiki/LabVIEW
 
 [<img align="left" alt="C" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
+
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Bash]
+
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 [<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][Docker]
+
 [Docker]: https://www.docker.com/
 
 [<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][Azure]
+
 [Azure]: https://azure.microsoft.com/en-us
+
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][AWS]
+
 [AWS]: https://aws.amazon.com
 
 <br />
