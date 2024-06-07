@@ -24,16 +24,24 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
+
 [VSCode]: https://code.visualstudio.com/
 
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+
 [SQL]: https://en.wikipedia.org/wiki/SQL
+
 [<img align="left" alt="MongoDB" height="30px" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][MongoDB]
+
 [MongoDB]: https://www.mongodb.com/
 
+
 [<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+
 [git]: https://www.git-scm.com/
+
 [<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
 [github]: https://github.com/
 
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
