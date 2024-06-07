@@ -7,7 +7,7 @@
 [<img align=left alt="erstome | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align=left alt="Emanuel-Tome | ResearchGate" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" />][researchgate]
 [<img align=left alt="8NZZyGUAAAAJ | GoogleScholar" width="30px" src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" />][googlescholar]
-[<img align=left alt="57191916182 | Scopus" width="30px" src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/scopus.png/@@images/image" />][scopus]
+[<img align=left alt="57191916182 | Scopus" width="30px" src="https://camo.githubusercontent.com/aae5029db605e0deb783acb4ff24bad2856880f54a647b66b3e60bb7779c96ec/68747470733a2f2f7777772e6665722e756e697a672e68722f5f7075622f7468656d65735f7374617469632f666572323031362f64656661756c742f696d672f73636f7075732d69636f6e2e706e67" />][scopus]
 [<img align=left alt="0000-0001-7861-9012 | Orcid" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" />][orcid]
 [<img align=left alt="CB1A-38C2-0D96 | CienciaVitae" width="60px" src="https://www.fccn.pt/media/2021/03/Ciencia-Vitae-fccn.svg" />][cienciavitae]
 
