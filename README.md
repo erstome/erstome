@@ -116,6 +116,10 @@
 
 [AWS]: https://aws.amazon.com
 
+[https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png][Azure DevOps]
+
+[Azure DevOps]: https://azure.microsoft.com/en-us/products/devops
+
 <br />
 <br />
 
