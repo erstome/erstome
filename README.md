@@ -108,21 +108,27 @@
 
 [Docker]: https://www.docker.com/
 
-[<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][Azure]
-
-[Azure]: https://azure.microsoft.com/en-us
-
-[<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][AWS]
+[<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
 
 [AWS]: https://aws.amazon.com
 
-[<img align="left" alt="Azure" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" />][AzureDevOps]
+[<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
+
+[Azure]: https://azure.microsoft.com/en-us
+
+[<img align="left" alt="AzureDevOps" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" />][AzureDevOps]
 
 [AzureDevOps]: https://azure.microsoft.com/en-us/products/devops
 
-[<img align="left" alt="Azure" height="30px" src="https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png" />][Mlflow]
+[<img align="left" alt="MLflow" height="30px" src="https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png" />][Mlflow]
 
 [MLflow]: https://mlflow.org/
+
+[<img align="left" alt="Mage" height="30px" src="https://mma.prnewswire.com/media/1663535/mage.jpg?w=200" />][Mage]
+
+[Mage]: https://www.mage.ai/
+
+
 
 <br />
 <br />
