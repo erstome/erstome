@@ -128,8 +128,6 @@
 
 [Mage]: https://www.mage.ai/
 
-
-
 <br />
 <br />
 
