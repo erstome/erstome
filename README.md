@@ -27,7 +27,6 @@
 
 [VSCode]: https://code.visualstudio.com/
 
-https://logowik.com/content/uploads/images/notion1411.jpg
 [<img align="left" alt="Notion" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />][Notion]
 
 [Notion]: https://www.notion.so/
