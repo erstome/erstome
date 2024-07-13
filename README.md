@@ -141,6 +141,7 @@
 <br>
 <img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{erstome}1212%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 
+[![GitHub](https://img.shields.io/github/followers/erstome?logo=GitHub&style=for-the-badge)](https://github.com/erstome)
 
 <!--
 **erstome/erstome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
