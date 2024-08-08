@@ -128,9 +128,6 @@
 
 [MLflow]: https://mlflow.org/
 
-[<img align="left" alt="Mage" height="30px" src="https://mma.prnewswire.com/media/1663535/mage.jpg?w=200" />][Mage]
-
-[Mage]: https://www.mage.ai/
 
 <br />
 <br />
