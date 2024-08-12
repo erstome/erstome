@@ -1,5 +1,5 @@
 ### Hi there, I'm Emanuel - aka erstome 👋
-- 🔭 I’m currently working as Data Scientist at Bosch
+- 🔭 I’m currently working as Data Scientist at [Bosch](https://www.bosch.com/)
 - 🌱 I’m currently learning about MLOps, Data Engineering and Azure
 - ⚡ Fun fact: I was Structural Engineer in another life
 
