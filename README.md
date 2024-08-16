@@ -25,92 +25,121 @@
 
 #### Programming Languages
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
+
 [Python]: https://www.python.org/
 
 [<img align="left" alt="R" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
+
 [R]: https://www.r-project.org/about.html
 
 [<img align="left" alt="MatLab" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][Matlab]
+
 [Matlab]: https://www.mathworks.com
 
 [<img align="left" alt="LabVIEW" height="30px" src="https://user-images.githubusercontent.com/57252765/72805263-bcc17000-3c52-11ea-988c-b4125a068cac.png" />][LabView]
+
 [LabView]: https://en.wikipedia.org/wiki/LabVIEW
 
 [<img align="left" alt="C" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][C]
+
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Bash]
+
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 #### Data Manipulation
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
+
 [Pandas]: https://pandas.pydata.org/
 
 [<img align="left" alt="Numpy" height="30px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" />][Numpy]
+
 [Numpy]: https://numpy.org/
 
 [<img align="left" alt="Dask" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-RH4RMlqx3apU2mMdByJejiX09z4UrJ3VoR3Ilix&s" />][Dask]
+
 [Dask]: https://www.dask.org/
 
 #### Machine Learning
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
+
 [Scikit-learn]: https://scikit-learn.org
 
 [<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][TensorFlow]
+
 [TensorFlow]: https://www.tensorflow.org
 
 #### Data Visualization
 [<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][Matplotlib]
+
 [Matplotlib]: https://matplotlib.org/
 
 [<img align="left" alt="Seaborn" height="30px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />][Seaborn]
+
 [Seaborn]: https://seaborn.pydata.org/
 
 #### Databases
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
+
 [SQL]: https://en.wikipedia.org/wiki/SQL
 
 [<img align="left" alt="MongoDB" height="30px" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][MongoDB]
+
 [MongoDB]: https://www.mongodb.com/
 
 #### MLOps & CI/CD
 [<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+
 [git]: https://www.git-scm.com/
 
 [<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
 [github]: https://github.com/
 
 [<img align="left" alt="AzureDevOps" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" />][AzureDevOps]
+
 [AzureDevOps]: https://azure.microsoft.com/en-us/products/devops
 
 [<img align="left" alt="MLflow" height="30px" src="https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png" />][Mlflow]
+
 [MLflow]: https://mlflow.org/
 
 [<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][Docker]
+
 [Docker]: https://www.docker.com/
 
 #### Cloud Computing
-[<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
-[AWS]: https://aws.amazon.com
-
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
+
 [Azure]: https://azure.microsoft.com/en-us
 
+[<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
+
+[AWS]: https://aws.amazon.com
+
 #### Other
+[<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
+
+[Poetry]: https://python-poetry.org/
+
 [<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
+
 [Dash]: https://dash.plotly.com/
 
 [<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
+
 [Flask]: https://flask.palletsprojects.com/
 
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
+
 [VSCode]: https://code.visualstudio.com/
 
 [<img align="left" alt="Notion" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />][Notion]
+
 [Notion]: https://www.notion.so/
 
-[<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
-[Poetry]: https://python-poetry.org/
+
 
 <br />
 <br />
