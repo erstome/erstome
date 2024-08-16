@@ -47,7 +47,7 @@
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Bash]
 
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-
+<br />
 #### Data Manipulation
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
 
@@ -60,7 +60,7 @@
 [<img align="left" alt="Dask" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-RH4RMlqx3apU2mMdByJejiX09z4UrJ3VoR3Ilix&s" />][Dask]
 
 [Dask]: https://www.dask.org/
-
+<br />
 #### Machine Learning
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
 
@@ -69,7 +69,7 @@
 [<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][TensorFlow]
 
 [TensorFlow]: https://www.tensorflow.org
-
+<br />
 #### Data Visualization
 [<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][Matplotlib]
 
@@ -78,7 +78,7 @@
 [<img align="left" alt="Seaborn" height="30px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />][Seaborn]
 
 [Seaborn]: https://seaborn.pydata.org/
-
+<br />
 #### Databases
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 
@@ -87,7 +87,7 @@
 [<img align="left" alt="MongoDB" height="30px" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][MongoDB]
 
 [MongoDB]: https://www.mongodb.com/
-
+<br />
 #### MLOps & CI/CD
 [<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 
@@ -108,7 +108,7 @@
 [<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][Docker]
 
 [Docker]: https://www.docker.com/
-
+<br />
 #### Cloud Computing
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
 
@@ -117,7 +117,7 @@
 [<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
 
 [AWS]: https://aws.amazon.com
-
+<br />
 #### Other
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
 
