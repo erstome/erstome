@@ -47,6 +47,7 @@
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Bash]
 
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
 <br />
 #### Data Manipulation
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
