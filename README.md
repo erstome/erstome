@@ -47,7 +47,6 @@
 [<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Bash]
 
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-
 <br />
 #### Data Manipulation
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
@@ -65,7 +64,6 @@
 [<img align="left" alt="Dask" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />][Spark]
 
 [Spark]: https://spark.apache.org/
-
 <br />
 #### Machine Learning
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
