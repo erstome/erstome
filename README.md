@@ -117,7 +117,7 @@
 
 [Docker]: https://www.docker.com/
 
-[<img align="left" alt="Terraform" height="30px" src="https://newrelic.com/sites/default/files/quickstarts/images/icons/terraform--logo.png" />][Terraform]
+[<img align="left" alt="Terraform" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70caOl3xdD3ov2DzwuQ_89OtN6BpcGb7I1w&s" />][Terraform]
 
 [Terraform]: https://www.terraform.io/
 <br />
