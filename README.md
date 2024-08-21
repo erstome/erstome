@@ -61,7 +61,7 @@
 
 [Dask]: https://www.dask.org/
 
-[<img align="left" alt="Dask" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />][Spark]
+[<img align="left" alt="Spark" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />][Spark]
 
 [Spark]: https://spark.apache.org/
 <br />
@@ -109,7 +109,7 @@
 
 [MLflow]: https://mlflow.org/
 
-[<img align="left" alt="MLflow" height="30px" src="https://seeklogo.com/images/P/prefect-logo-759C57D41E-seeklogo.com.png" />][Mlflow]
+[<img align="left" alt="Prefect" height="30px" src="https://seeklogo.com/images/P/prefect-logo-759C57D41E-seeklogo.com.png" />][Mlflow]
 
 [Prefect]: https://www.prefect.io/
 
@@ -117,7 +117,7 @@
 
 [Docker]: https://www.docker.com/
 
-[<img align="left" alt="Docker" height="30px" src="https://banner2.cleanpng.com/20180529/szy/avpk2ukmt.webp" />][Terraform]
+[<img align="left" alt="Terraform" height="30px" src="https://newrelic.com/sites/default/files/quickstarts/images/icons/terraform--logo.png" />][Terraform]
 
 [Terraform]: https://www.terraform.io/
 <br />
