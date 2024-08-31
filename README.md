@@ -9,7 +9,7 @@
 [<img align=left alt="8NZZyGUAAAAJ | GoogleScholar" height="30px" src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" />][googlescholar]
 [<img align=left alt="57191916182 | Scopus" height="30px" src="https://retractionwatch.com/wp-content/uploads/2023/12/Screenshot-2023-12-28-at-11.00.49%E2%80%AFAM.png" />][scopus]
 [<img align=left alt="0000-0001-7861-9012 | Orcid" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/1024px-ORCID_iD.svg.png" />][orcid]
-[<img align=left alt="CB1A-38C2-0D96 | CienciaVitae" weigth="60px" src="https://www.fccn.pt/media/2021/03/Ciencia-Vitae-fccn.svg" />][cienciavitae]
+[<img align=left alt="CB1A-38C2-0D96 | CienciaVitae" weight="60px" src="https://www.fccn.pt/media/2021/03/Ciencia-Vitae-fccn.svg" />][cienciavitae]
 
 [Linkedin]: https://www.linkedin.com/in/erstome/
 [researchgate]: https://www.researchgate.net/profile/Emanuel-Tome
