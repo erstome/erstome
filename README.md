@@ -18,9 +18,6 @@
 [orcid]: https://orcid.org/0000-0001-7861-9012
 [cienciavitae]: https://www.cienciavitae.pt//CB1A-38C2-0D96
 
-<br />
-<br />
-
 ### Languages and Tools:
 
 #### Programming Languages
@@ -39,9 +36,6 @@
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
-<br />
-<br />
-
 #### Data Manipulation
 
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
@@ -54,8 +48,6 @@
 [Dask]: https://www.dask.org/
 [Spark]: https://spark.apache.org/
 
-<br />
-
 #### Machine Learning
 
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
@@ -63,8 +55,6 @@
 
 [Scikit-learn]: https://scikit-learn.org
 [TensorFlow]: https://www.tensorflow.org
-
-<br />
 
 #### Data Visualization
 
@@ -74,8 +64,6 @@
 [Matplotlib]: https://matplotlib.org/
 [Seaborn]: https://seaborn.pydata.org/
 
-<br />
-
 #### Databases
 
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
@@ -83,8 +71,6 @@
 
 [SQL]: https://en.wikipedia.org/wiki/SQL
 [MongoDB]: https://www.mongodb.com/
-
-<br />
 
 #### MLOps & CI/CD
 
