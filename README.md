@@ -55,6 +55,7 @@
 [Spark]: https://spark.apache.org/
 
 <br />
+
 #### Machine Learning
 
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
@@ -64,6 +65,7 @@
 [TensorFlow]: https://www.tensorflow.org
 
 <br />
+
 #### Data Visualization
 
 [<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][Matplotlib]
@@ -73,6 +75,7 @@
 [Seaborn]: https://seaborn.pydata.org/
 
 <br />
+
 #### Databases
 
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
@@ -82,6 +85,7 @@
 [MongoDB]: https://www.mongodb.com/
 
 <br />
+
 #### MLOps & CI/CD
 
 [<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -101,6 +105,7 @@
 [Terraform]: https://www.terraform.io/
 
 <br />
+
 #### Cloud Computing
 
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
@@ -110,6 +115,7 @@
 [AWS]: https://aws.amazon.com
 
 <br />
+
 #### Other
 
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
