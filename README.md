@@ -26,9 +26,9 @@
 #### Programming Languages
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 
-[Python]: https://www.python.org/
 [<img align="left" alt="R" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
 
+[Python]: https://www.python.org/
 [R]: https://www.r-project.org/about.html
 
 [<img align="left" alt="MatLab" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][Matlab]
