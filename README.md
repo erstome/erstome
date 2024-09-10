@@ -40,6 +40,8 @@
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
 
 <br />
+<br />
+
 #### Data Manipulation
 
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
