@@ -90,8 +90,6 @@
 [Docker]: https://www.docker.com/
 [Terraform]: https://www.terraform.io/
 
-<br />
-
 #### Cloud Computing
 
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
@@ -99,8 +97,6 @@
 
 [Azure]: https://azure.microsoft.com/en-us
 [AWS]: https://aws.amazon.com
-
-<br />
 
 #### Other
 
@@ -116,8 +112,6 @@
 [VSCode]: https://code.visualstudio.com/
 [Notion]: https://www.notion.so/
 
-<br />
-<br />
 
 ---
 ### Stats
