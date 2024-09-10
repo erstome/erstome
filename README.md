@@ -24,6 +24,7 @@
 ### Languages and Tools:
 
 #### Programming Languages
+
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="R" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
 [<img align="left" alt="MatLab" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />][Matlab]
@@ -40,6 +41,7 @@
 
 <br />
 #### Data Manipulation
+
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
 [<img align="left" alt="Numpy" height="30px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" />][Numpy]
 [<img align="left" alt="Dask" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-RH4RMlqx3apU2mMdByJejiX09z4UrJ3VoR3Ilix&s" />][Dask]
@@ -52,6 +54,7 @@
 
 <br />
 #### Machine Learning
+
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
 [<img align="left" alt="Tensorflow" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][TensorFlow]
 
@@ -60,6 +63,7 @@
 
 <br />
 #### Data Visualization
+
 [<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][Matplotlib]
 [<img align="left" alt="Seaborn" height="30px" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" />][Seaborn]
 
@@ -68,6 +72,7 @@
 
 <br />
 #### Databases
+
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
 [<img align="left" alt="MongoDB" height="30px" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][MongoDB]
 
@@ -76,6 +81,7 @@
 
 <br />
 #### MLOps & CI/CD
+
 [<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="AzureDevOps" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" />][AzureDevOps]
@@ -94,6 +100,7 @@
 
 <br />
 #### Cloud Computing
+
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
 [<img align="left" alt="AWS" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][AWS]
 
@@ -102,6 +109,7 @@
 
 <br />
 #### Other
+
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
 [<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
 [<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
