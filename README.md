@@ -45,11 +45,13 @@
 [<img align="left" alt="Numpy" height="30px" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" />][Numpy]
 [<img align="left" alt="Dask" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-RH4RMlqx3apU2mMdByJejiX09z4UrJ3VoR3Ilix&s" />][Dask]
 [<img align="left" alt="Spark" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />][Spark]
+[<img align="left" alt="Rapids" height="30px" src="https://rapids.ai/images/RAPIDS-logo.png" />][Rapids]
 
 [Pandas]: https://pandas.pydata.org/
 [Numpy]: https://numpy.org/
 [Dask]: https://www.dask.org/
 [Spark]: https://spark.apache.org/
+[Rapids]: https://rapids.ai/
 </br>
 #### Machine Learning
 
