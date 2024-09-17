@@ -72,7 +72,7 @@
 #### Databases
 
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
-[<img align="left" alt="MongoDB" height="30px" src="https://github.com/mongodb/mongo/blob/master/docs/leaf.svg" />][MongoDB]
+[<img align="left" alt="MongoDB" height="30px" src="https://banner2.cleanpng.com/20180811/tpu/6ef0041f0e0ace87d1e03031b18a23f5.webp" />][MongoDB]
 
 [SQL]: https://en.wikipedia.org/wiki/SQL
 [MongoDB]: https://www.mongodb.com/
