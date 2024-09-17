@@ -18,8 +18,9 @@
 [orcid]: https://orcid.org/0000-0001-7861-9012
 [cienciavitae]: https://www.cienciavitae.pt//CB1A-38C2-0D96
 
+</br>
 ### Languages and Tools:
-
+</br>
 #### Programming Languages
 
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
@@ -35,7 +36,7 @@
 [LabView]: https://en.wikipedia.org/wiki/LabVIEW
 [C]: https://en.wikipedia.org/wiki/C_(programming_language)
 [Bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-
+</br>
 #### Data Manipulation
 
 [<img align="left" alt="Pandas" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />][Pandas]
@@ -47,7 +48,7 @@
 [Numpy]: https://numpy.org/
 [Dask]: https://www.dask.org/
 [Spark]: https://spark.apache.org/
-
+</br>
 #### Machine Learning
 
 [<img align="left" alt="Scikit-learn" height="30px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />][Scikit-learn]
@@ -55,7 +56,7 @@
 
 [Scikit-learn]: https://scikit-learn.org
 [TensorFlow]: https://www.tensorflow.org
-
+</br>
 #### Data Visualization
 
 [<img align="left" alt="Matplotlib" height="30px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][Matplotlib]
@@ -63,7 +64,7 @@
 
 [Matplotlib]: https://matplotlib.org/
 [Seaborn]: https://seaborn.pydata.org/
-
+</br>
 #### Databases
 
 [<img align="left" alt="SQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][SQL]
@@ -71,7 +72,7 @@
 
 [SQL]: https://en.wikipedia.org/wiki/SQL
 [MongoDB]: https://www.mongodb.com/
-
+</br>
 #### MLOps & CI/CD
 
 [<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
@@ -89,7 +90,7 @@
 [Prefect]: https://www.prefect.io/
 [Docker]: https://www.docker.com/
 [Terraform]: https://www.terraform.io/
-
+</br>
 #### Cloud Computing
 
 [<img align="left" alt="Azure" height="30px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />][Azure]
@@ -97,7 +98,7 @@
 
 [Azure]: https://azure.microsoft.com/en-us
 [AWS]: https://aws.amazon.com
-
+</br>
 #### Other
 
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
