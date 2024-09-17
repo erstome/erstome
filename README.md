@@ -22,7 +22,6 @@
 
 ### Languages and Tools:
 
-</br>
 
 #### Programming Languages
 
