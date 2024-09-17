@@ -19,8 +19,11 @@
 [cienciavitae]: https://www.cienciavitae.pt//CB1A-38C2-0D96
 
 </br>
+
 ### Languages and Tools:
+
 </br>
+
 #### Programming Languages
 
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
