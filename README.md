@@ -85,7 +85,7 @@
 [<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="AzureDevOps" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ome-oSxDNx7mQxJFZJ-NJg.png" />][AzureDevOps]
 [<img align="left" alt="MLflow" height="30px" src="https://datasolut.com/wp-content/uploads/2019/11/MLFlow-logo_white.png" />][Mlflow]
-[<img align="left" alt="Prefect" height="30px" src="https://seeklogo.com/images/P/prefect-logo-759C57D41E-seeklogo.com.png" />][Mlflow]
+[<img align="left" alt="Prefect" height="30px" src="https://seeklogo.com/images/P/prefect-logo-759C57D41E-seeklogo.com.png" />][Prefect]
 [<img align="left" alt="Docker" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][Docker]
 [<img align="left" alt="Terraform" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70caOl3xdD3ov2DzwuQ_89OtN6BpcGb7I1w&s" />][Terraform]
 [<img align="left" alt="Hydra" height="30px" src="https://repository-images.githubusercontent.com/191632914/c8406080-ee09-11ea-80c5-8df4b0341954" />][Hydra]
