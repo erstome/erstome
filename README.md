@@ -111,6 +111,7 @@
 
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
 [<img align="left" alt="uv" height="30px" src="https://docs.astral.sh/uv/assets/logo-letter.svg" />][uv]
+[<img align="left" alt="uv" height="30px" src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.14.0/1740738904928/Microsoft.VisualStudio.Services.Icons.Default" />][ruff]
 [<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
 [<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
 [<img align="left" alt="Streamlit" height="30px" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" />][Streamlit]
@@ -119,6 +120,7 @@
 
 [Poetry]: https://python-poetry.org/
 [uv]: https://docs.astral.sh/uv/
+[ruff]: https://docs.astral.sh/ruff/
 [Dash]: https://dash.plotly.com/
 [Flask]: https://flask.palletsprojects.com/
 [Streamlit]: https://streamlit.io/
