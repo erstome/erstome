@@ -47,6 +47,7 @@
 [<img align="left" alt="Spark" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />][Spark]
 [<img align="left" alt="Databricks" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" />][Databricks]
 [<img align="left" alt="Rapids" height="30px" src="https://rapids.ai/images/RAPIDS-logo.png" />][Rapids]
+[<img align="left" alt="Polars" height="30px" src="https://www.bigdatawire.com/wp-content/uploads/2024/10/Polars_logo_1-300x162.png" />][Polars]
 
 [Pandas]: https://pandas.pydata.org/
 [Numpy]: https://numpy.org/
@@ -54,6 +55,7 @@
 [Spark]: https://spark.apache.org/
 [Databricks]: https://www.databricks.com/
 [Rapids]: https://rapids.ai/
+[Polars]: https://pola.rs/
 </br>
 #### Machine Learning
 
