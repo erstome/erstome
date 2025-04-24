@@ -92,6 +92,7 @@
 [<img align="left" alt="Terraform" height="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70caOl3xdD3ov2DzwuQ_89OtN6BpcGb7I1w&s" />][Terraform]
 [<img align="left" alt="Hydra" height="30px" src="https://repository-images.githubusercontent.com/191632914/c8406080-ee09-11ea-80c5-8df4b0341954" />][Hydra]
 
+
 [git]: https://www.git-scm.com/
 [github]: https://github.com/
 [AzureDevOps]: https://azure.microsoft.com/en-us/products/devops
@@ -100,6 +101,7 @@
 [Docker]: https://www.docker.com/
 [Terraform]: https://www.terraform.io/
 [Hydra]: https://hydra.cc/
+
 </br>
 #### Cloud Computing
 
@@ -111,6 +113,7 @@
 </br>
 #### Other
 
+[<img align="left" alt="Hydra" height="30px" src="https://pre-commit.com/logo.svg" />][Pre-commit]
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
 [<img align="left" alt="uv" height="30px" src="https://docs.astral.sh/uv/assets/logo-letter.svg" />][uv]
 [<img align="left" alt="uv" height="30px" src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.14.0/1740738904928/Microsoft.VisualStudio.Services.Icons.Default" />][ruff]
@@ -120,6 +123,7 @@
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="Notion" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />][Notion]
 
+[Pre-commit]: https://pre-commit.com/
 [Poetry]: https://python-poetry.org/
 [uv]: https://docs.astral.sh/uv/
 [ruff]: https://docs.astral.sh/ruff/
