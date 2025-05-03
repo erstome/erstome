@@ -115,6 +115,7 @@
 [<img align="left" alt="Hydra" height="30px" src="https://pre-commit.com/logo.svg" />][Pre-commit]
 [<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
 [<img align="left" alt="uv" height="30px" src="https://docs.astral.sh/uv/assets/logo-letter.svg" />][uv]
+[<img align="left" alt="uv" height="30px" src="https://private-user-images.githubusercontent.com/216188/306790203-27a8ea18-9383-4d86-a445-305b9a6248c1.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYyNzUwMjYsIm5iZiI6MTc0NjI3NDcyNiwicGF0aCI6Ii8yMTYxODgvMzA2NzkwMjAzLTI3YThlYTE4LTkzODMtNGQ4Ni1hNDQ1LTMwNWI5YTYyNDhjMS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MDNUMTIxODQ2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9YjdjZGIzYzE3M2UyYWI3ODkyMTVmNjA3ZWU2YzkxMjZlNWMxMzE0NDUwYWQ1ZTIzOGFjZGNhMDZjZTc5YmQ1ZCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.sujH5rmelI3CIbMEhnFqqDb6iKJ55DOGyndeR_pifHc" />][mise-en-place]
 [<img align="left" alt="uv" height="30px" src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.14.0/1740738904928/Microsoft.VisualStudio.Services.Icons.Default" />][ruff]
 [<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
 [<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
@@ -125,6 +126,7 @@
 [Pre-commit]: https://pre-commit.com/
 [Poetry]: https://python-poetry.org/
 [uv]: https://docs.astral.sh/uv/
+[mise-en-place]: https://mise.jdx.dev/
 [ruff]: https://docs.astral.sh/ruff/
 [Dash]: https://dash.plotly.com/
 [Flask]: https://flask.palletsprojects.com/
