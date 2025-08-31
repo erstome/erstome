@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as Data Scientist at [Bosch](https://www.bosch.com/)
 - 🌱 I’m currently learning about LLMs and Agentic AI
 - ⚡ Fun fact: I was Structural Engineer in another life
-- In my free time I try to learn new concepts and tools that interest me!
+- 🧠 In my free time I try to learn new concepts and tools that interest me!
     - Currently and I am exploring the [LLM Zoomcamp course](https://github.com/DataTalksClub/llm-zoomcamp)
     - I am always learning about MLOps, Cloud Computing (Azure) and best practices of ML-based software development!
 
