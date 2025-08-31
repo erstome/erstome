@@ -147,6 +147,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erstome&label=Profile%20views&color=0e75b6&style=flat" alt="erstome" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erstome&show_icons=true&locale=en&layout=compact" alt="erstome" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erstome&show_icons=true&locale=en" alt="erstome" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erstome&" alt="erstome" /></p>
+
 <!--
 <img width='100' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{erstome}1212%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 
