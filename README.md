@@ -1,6 +1,6 @@
 ### Hi there, I'm Emanuel - aka erstome 👋
 - 🔭 I’m currently working as Data Scientist at [Bosch](https://www.bosch.com/)
-- 🌱 I’m currently learning about LLMs and Agentic AI
+- 🌱 I’m currently learning about MLOps, LLMs and Agentic AI
 - ⚡ Fun fact: I was Structural Engineer in another life
 - 🧠 In my free time I try to learn new concepts and tools that interest me!
     - Currently and I am exploring the [LLM Zoomcamp course](https://github.com/DataTalksClub/llm-zoomcamp)
