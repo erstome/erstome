@@ -116,9 +116,8 @@
 #### Other
 
 [<img align="left" alt="Hydra" height="30px" src="https://pre-commit.com/logo.svg" />][Pre-commit]
-[<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
 [<img align="left" alt="uv" height="30px" src="https://docs.astral.sh/uv/assets/logo-letter.svg" />][uv]
-[<img align="left" alt="uv" height="30px" src="https://private-user-images.githubusercontent.com/216188/306790203-27a8ea18-9383-4d86-a445-305b9a6248c1.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY4MDE0MjksIm5iZiI6MTc0NjgwMTEyOSwicGF0aCI6Ii8yMTYxODgvMzA2NzkwMjAzLTI3YThlYTE4LTkzODMtNGQ4Ni1hNDQ1LTMwNWI5YTYyNDhjMS5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDUwOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA1MDlUMTQzMjA5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZDcxZWNlY2EwZmFmZmM2ZGQ1MGZhYzAyZWNmOTNiZjQ0MGEwODczNWFiN2U4MjZmZGE3YjA0MjYxM2MwYjk2MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.VTjdf2EBi0EpRVajpa8sVEHQCgxeE7JRXUlVUizeFlA" />][mise-en-place]
+[<img align="left" alt="mise-en-place" height="30px" src="https://mise.jdx.dev/logo.svg" />][mise-en-place]
 [<img align="left" alt="uv" height="30px" src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.14.0/1740738904928/Microsoft.VisualStudio.Services.Icons.Default" />][ruff]
 [<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
 [<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
@@ -127,7 +126,6 @@
 [<img align="left" alt="Notion" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />][Notion]
 
 [Pre-commit]: https://pre-commit.com/
-[Poetry]: https://python-poetry.org/
 [uv]: https://docs.astral.sh/uv/
 [mise-en-place]: https://mise.jdx.dev/
 [ruff]: https://docs.astral.sh/ruff/
@@ -138,6 +136,12 @@
 [Notion]: https://www.notion.so/
 
 </br>
+
+<!--
+[<img align="left" alt="Poetry" height="30px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*BOkR9d3IAGLfa92VslfTVw.png" />][Poetry]
+
+[Poetry]: https://python-poetry.org/
+-->
 
 ---
 ### Stats
