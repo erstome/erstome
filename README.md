@@ -119,8 +119,6 @@
 [<img align="left" alt="uv" height="30px" src="https://docs.astral.sh/uv/assets/logo-letter.svg" />][uv]
 [<img align="left" alt="mise-en-place" height="30px" src="https://mise.jdx.dev/logo.svg" />][mise-en-place]
 [<img align="left" alt="uv" height="30px" src="https://charliermarsh.gallerycdn.vsassets.io/extensions/charliermarsh/ruff/2025.14.0/1740738904928/Microsoft.VisualStudio.Services.Icons.Default" />][ruff]
-[<img align="left" alt="Dash" height="30px" src="https://avatars.githubusercontent.com/u/5997976?s=48&v=4" />][Dash]
-[<img align="left" alt="Flask" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />][Flask]
 [<img align="left" alt="Streamlit" height="30px" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" />][Streamlit]
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
 [<img align="left" alt="Notion" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />][Notion]
@@ -129,8 +127,6 @@
 [uv]: https://docs.astral.sh/uv/
 [mise-en-place]: https://mise.jdx.dev/
 [ruff]: https://docs.astral.sh/ruff/
-[Dash]: https://dash.plotly.com/
-[Flask]: https://flask.palletsprojects.com/
 [Streamlit]: https://streamlit.io/
 [VSCode]: https://code.visualstudio.com/
 [Notion]: https://www.notion.so/
