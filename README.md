@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I was Structural Engineer in another life
 - 🧠 In my free time I try to learn new concepts and tools that interest me!
     - Currently and I am exploring the [LLM Zoomcamp course](https://github.com/DataTalksClub/llm-zoomcamp)
-    - I am always learning about MLOps, Cloud Computing (Azure) and best practices of ML-based software development!
+    - I am always learning about MLOps, Cloud Computing (Azure) and best practices of ML/AI-based software development!
 
 ### Connect with me:
 [<img align=left alt="erstome | LinkedIn" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,10 +22,10 @@
 [cienciavitae]: https://www.cienciavitae.pt//CB1A-38C2-0D96
 
 </br>
-
+<!--
 ### Languages and Tools:
 
-
+<!--
 #### Programming Languages
 
 [<img align="left" alt="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
